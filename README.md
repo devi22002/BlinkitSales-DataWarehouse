@@ -47,7 +47,7 @@ The key deliverable of this project is an interactive **sales analysis dashboard
 ## 👥 Project Team
 This project was developed by:
 
-- 140810220001 - Nadia Mulyadi 
-- 140810220015 - Devi Humaira
-- 140810220029 - Reghina Maisarah
-- 140810220071 - Nabila Rahmanisa Putri Arzetta 
+- 140810220001 - Nadia Mulyadi [@nmulis](https://github.com/nmulis)
+- 140810220015 - Devi Humaira [@devi22002](https://github.com/devi22002)
+- 140810220029 - Reghina Maisarah [@reghina22001](https://github.com/reghina22001)
+- 140810220071 - Nabila Rahmanisa Putri Arzetta [@nabilarahmansiaputriarzetta](https://github.com/nabilarahmansiaputriarzetta)
