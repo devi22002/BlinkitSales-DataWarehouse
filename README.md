@@ -44,6 +44,8 @@ The key deliverable of this project is an interactive **sales analysis dashboard
 - Visual breakdown of high-performing regions and average purchase metrics
 - Easy-to-use filters for time-based exploration (Year, Month)
 
+📄 View Full Report [(PDF)](https://drive.google.com/file/d/1PkEzEc1yXYowtCZz6zqvbPwn-uXtl5n1/view?usp=sharing) 
+
 ## 👥 Project Team
 This project was developed by:
 
